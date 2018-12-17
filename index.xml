@@ -10,5 +10,140 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Log</title>
+      <link>https://r-zh.github.io/publication/log/</link>
+      <pubDate>Sun, 16 Dec 2018 19:25:24 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/publication/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://r-zh.github.io/post/food/</link>
+      <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language_analistic</title>
+      <link>https://r-zh.github.io/project/language_analistic/</link>
+      <pubDate>Sun, 16 Dec 2018 19:23:28 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/project/language_analistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://r-zh.github.io/project/security/</link>
+      <pubDate>Sun, 16 Dec 2018 19:23:10 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/project/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web_github_analystics</title>
+      <link>https://r-zh.github.io/project/web_github_analystics/</link>
+      <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/project/web_github_analystics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://r-zh.github.io/post/english/</link>
+      <pubDate>Sun, 16 Dec 2018 19:22:05 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French</title>
+      <link>https://r-zh.github.io/post/french/</link>
+      <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software_engineering</title>
+      <link>https://r-zh.github.io/post/software_engineering/</link>
+      <pubDate>Sun, 16 Dec 2018 19:21:43 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/software_engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matlab</title>
+      <link>https://r-zh.github.io/post/matlab/</link>
+      <pubDate>Sun, 16 Dec 2018 19:21:26 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine_learning</title>
+      <link>https://r-zh.github.io/post/machine_learning/</link>
+      <pubDate>Sun, 16 Dec 2018 19:21:11 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://r-zh.github.io/post/git/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud_computing</title>
+      <link>https://r-zh.github.io/post/cloud_computing/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/cloud_computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal_HV</title>
+      <link>https://r-zh.github.io/post/formal_hv/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/formal_hv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Com_arch</title>
+      <link>https://r-zh.github.io/post/com_arch/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:08 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/com_arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Op_tech</title>
+      <link>https://r-zh.github.io/post/op_tech/</link>
+      <pubDate>Sun, 16 Dec 2018 19:19:51 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/op_tech/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
