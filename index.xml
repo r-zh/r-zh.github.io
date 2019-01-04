@@ -11,6 +11,43 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Memorandum</title>
+      <link>https://r-zh.github.io/post/memorandum/</link>
+      <pubDate>Fri, 04 Jan 2019 10:06:30 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/memorandum/</guid>
+      <description>
+
+&lt;h1 id=&#34;2019-s-plan&#34;&gt;2019&amp;rsquo;s Plan&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thesis Defence&lt;/li&gt;
+&lt;li&gt;Design the Software (Python Django)&lt;/li&gt;
+&lt;li&gt;Rich personal website&lt;/li&gt;
+&lt;li&gt;Scholarship&lt;/li&gt;
+&lt;li&gt;Structure of all post&lt;/li&gt;
+&lt;li&gt;French Language (200 words 30 expression)&lt;/li&gt;
+&lt;li&gt;Exercise
+
+&lt;ul&gt;
+&lt;li&gt;Taichi&lt;/li&gt;
+&lt;li&gt;Savate&lt;/li&gt;
+&lt;li&gt;Iaido&lt;/li&gt;
+&lt;li&gt;形意拳&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;hugo-academic&#34;&gt;Hugo Academic&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;New Content&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;structure-of-personal-information&#34;&gt;Structure Of Personal Information&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/04/contactStracture.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chrome Setting</title>
       <link>https://r-zh.github.io/tutorial/chrome_setting/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
@@ -34,11 +71,25 @@
 
 &lt;p&gt;There are many useful online tools&amp;rsquo; websites. Add them in the bookmarks:&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;Program&lt;/em&gt;&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Web Server&lt;/strong&gt; &lt;a href=&#34;https://www.000webhost.com/&#34; target=&#34;_blank&#34;&gt;000webhost&lt;/a&gt; provides 1 GB free space for server. Just put &lt;code&gt;index.html&lt;/code&gt; in the folder &lt;code&gt;public_html&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Host Domain&lt;/strong&gt; &lt;a href=&#34;http://www.dot.tk/en/index.html?lang=en&#34; target=&#34;_blank&#34;&gt;TK&lt;/a&gt; offers free host name for 1 year. It includes &lt;strong&gt;.tk .ml .ga .cf .gq&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Picture Source&lt;/strong&gt; &lt;a href=&#34;https://a.photo/tonyzhou&#34; target=&#34;_blank&#34;&gt;A.Photo&lt;/a&gt; Store pictures for using in websites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Academic&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Online Latex&lt;/strong&gt; &lt;a href=&#34;https://www.overleaf.com&#34; target=&#34;_blank&#34;&gt;Overleaf&lt;/a&gt; Write the thesis online&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Online Draw&lt;/strong&gt; &lt;a href=&#34;https://www.draw.io/&#34; target=&#34;_blank&#34;&gt;Draw&lt;/a&gt; Graph for UML, Entity Relation, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Amusement&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MP3 Convert&lt;/strong&gt; &lt;a href=&#34;https://www.flvto.biz/cn/&#34; target=&#34;_blank&#34;&gt;Flvto&lt;/a&gt; Convert Youtube video into MP3, then Downloads Free&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -157,15 +208,6 @@
       <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/formal_hv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Com_arch</title>
-      <link>https://r-zh.github.io/post/com_arch/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:08 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/com_arch/</guid>
       <description></description>
     </item>
     
