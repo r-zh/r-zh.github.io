@@ -26,7 +26,13 @@
 &lt;li&gt;Rich personal website&lt;/li&gt;
 &lt;li&gt;Scholarship&lt;/li&gt;
 &lt;li&gt;Structure of all post&lt;/li&gt;
-&lt;li&gt;French Language (200 words 30 expression)&lt;/li&gt;
+&lt;li&gt;French Language
+
+&lt;ul&gt;
+&lt;li&gt;200 words&lt;/li&gt;
+&lt;li&gt;30 expression&lt;/li&gt;
+&lt;li&gt;Grammar&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Exercise
 
 &lt;ul&gt;
@@ -39,20 +45,20 @@
 
 &lt;h1 id=&#34;hugo-academic&#34;&gt;Hugo Academic&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;New Content&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;New Post, Project, Publication&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;structure-of-personal-information&#34;&gt;Structure Of Personal Information&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/04/contactStracture.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/04/contactStracture.png&#34; alt=&#34;contactStracture.png&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chrome Setting</title>
-      <link>https://r-zh.github.io/tutorial/chrome_setting/</link>
+      <link>https://r-zh.github.io/config/chrome_setting/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tutorial/chrome_setting/</guid>
+      <guid>https://r-zh.github.io/config/chrome_setting/</guid>
       <description>
 
 &lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
@@ -71,31 +77,31 @@
 
 &lt;p&gt;There are many useful online tools&amp;rsquo; websites. Add them in the bookmarks:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Program&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program&#34;&gt;Program&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Web Server&lt;/strong&gt; &lt;a href=&#34;https://www.000webhost.com/&#34; target=&#34;_blank&#34;&gt;000webhost&lt;/a&gt; provides 1 GB free space for server. Just put &lt;code&gt;index.html&lt;/code&gt; in the folder &lt;code&gt;public_html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Host Domain&lt;/strong&gt; &lt;a href=&#34;http://www.dot.tk/en/index.html?lang=en&#34; target=&#34;_blank&#34;&gt;TK&lt;/a&gt; offers free host name for 1 year. It includes &lt;strong&gt;.tk .ml .ga .cf .gq&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Picture Source&lt;/strong&gt; &lt;a href=&#34;https://a.photo/tonyzhou&#34; target=&#34;_blank&#34;&gt;A.Photo&lt;/a&gt; Store pictures for using in websites&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Web Server&lt;/em&gt; &lt;a href=&#34;https://www.000webhost.com/&#34; target=&#34;_blank&#34;&gt;000webhost&lt;/a&gt; provides 1 GB free space for server. Just put &lt;code&gt;index.html&lt;/code&gt; in the folder &lt;code&gt;public_html&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Host Domain&lt;/em&gt; &lt;a href=&#34;http://www.dot.tk/en/index.html?lang=en&#34; target=&#34;_blank&#34;&gt;TK&lt;/a&gt; offers free host name for 1 year. It includes &lt;strong&gt;.tk .ml .ga .cf .gq&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Picture Source&lt;/em&gt; &lt;a href=&#34;https://a.photo/tonyzhou&#34; target=&#34;_blank&#34;&gt;A.Photo&lt;/a&gt; Store pictures for using in websites&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Academic&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;academic&#34;&gt;Academic&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Online Latex&lt;/strong&gt; &lt;a href=&#34;https://www.overleaf.com&#34; target=&#34;_blank&#34;&gt;Overleaf&lt;/a&gt; Write the thesis online&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Online Draw&lt;/strong&gt; &lt;a href=&#34;https://www.draw.io/&#34; target=&#34;_blank&#34;&gt;Draw&lt;/a&gt; Graph for UML, Entity Relation, etc.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Online Latex&lt;/em&gt; &lt;a href=&#34;https://www.overleaf.com&#34; target=&#34;_blank&#34;&gt;Overleaf&lt;/a&gt; Write the thesis online&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Online Draw&lt;/em&gt; &lt;a href=&#34;https://www.draw.io/&#34; target=&#34;_blank&#34;&gt;Draw&lt;/a&gt; Graph for UML, Entity Relation, etc.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Amusement&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;amusement&#34;&gt;Amusement&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;MP3 Convert&lt;/strong&gt; &lt;a href=&#34;https://www.flvto.biz/cn/&#34; target=&#34;_blank&#34;&gt;Flvto&lt;/a&gt; Convert Youtube video into MP3, then Downloads Free&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;MP3 Convert&lt;/em&gt; &lt;a href=&#34;https://www.flvto.biz/cn/&#34; target=&#34;_blank&#34;&gt;Flvto&lt;/a&gt; Convert Youtube video into MP3, then Downloads Free&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Log</title>
+      <title>Characterizing logging practices in Android applications</title>
       <link>https://r-zh.github.io/publication/log/</link>
       <pubDate>Sun, 16 Dec 2018 19:25:24 -0500</pubDate>
       
@@ -113,30 +119,41 @@
     </item>
     
     <item>
-      <title>Language_analistic</title>
-      <link>https://r-zh.github.io/project/language_analistic/</link>
+      <title>Mobile Game Application</title>
+      <link>https://r-zh.github.io/project/mobile_game/</link>
       <pubDate>Sun, 16 Dec 2018 19:23:28 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/project/language_analistic/</guid>
-      <description></description>
+      <guid>https://r-zh.github.io/project/mobile_game/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;C++ 2D Game Engine, Advanture Game
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/JaSA-VlXgv4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pygame, Advanture Game
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/xASl45NFnZk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://r-zh.github.io/project/security/</link>
-      <pubDate>Sun, 16 Dec 2018 19:23:10 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/project/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web_github_analystics</title>
+      <title>Github User Behaviour Analystics</title>
       <link>https://r-zh.github.io/project/web_github_analystics/</link>
       <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
       
       <guid>https://r-zh.github.io/project/web_github_analystics/</guid>
-      <description></description>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/mqpxhWz8PGI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
@@ -185,21 +202,85 @@
     </item>
     
     <item>
-      <title>Git</title>
+      <title>Git Commands in Usage</title>
       <link>https://r-zh.github.io/post/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/git/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/05/git_structure.png&#34; alt=&#34;git_structure.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;update-website&#34;&gt;Update website&lt;/h2&gt;
+
+&lt;p&gt;Using &lt;a href=&#34;https://gohugo.io/getting-started/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; to set personal website has some issues about Git to attention. Source code and website code are independent.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Source code&lt;/th&gt;
+&lt;th&gt;Website Code&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Creation&lt;/td&gt;
+&lt;td&gt;Manually&lt;/td&gt;
+&lt;td&gt;Automatically&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;File type&lt;/td&gt;
+&lt;td&gt;.md&lt;/td&gt;
+&lt;td&gt;.html&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Usage&lt;/td&gt;
+&lt;td&gt;Edit the Content&lt;/td&gt;
+&lt;td&gt;Display the Information&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Folder&lt;/td&gt;
+&lt;td&gt;hugo root&lt;/td&gt;
+&lt;td&gt;public&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Therefore, we need to develop the source code firstly, and push it to git. Then, refresh the public folder to update the blog website. The steps are as follows.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Git push Blog source&lt;/li&gt;
+&lt;li&gt;Create &lt;code&gt;public&lt;/code&gt; folder&lt;/li&gt;
+&lt;li&gt;Operate the following commands:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;cd public
+git clone https://github.com/:github_account/:git_repository
+cd ..
+hugo server
+cd public
+git add .
+git commit -m &#39;update blog&#39;
+git push
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
-      <title>Cloud_computing</title>
+      <title>Cloud Computing</title>
       <link>https://r-zh.github.io/post/cloud_computing/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/cloud_computing/</guid>
-      <description></description>
+      <description>&lt;p&gt;![]()&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -208,6 +289,15 @@
       <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/formal_hv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Com_arch</title>
+      <link>https://r-zh.github.io/post/com_arch/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:08 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/com_arch/</guid>
       <description></description>
     </item>
     

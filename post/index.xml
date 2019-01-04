@@ -18,7 +18,7 @@
       <pubDate>Fri, 04 Jan 2019 10:06:30 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/memorandum/</guid>
-      <description> 2019&amp;rsquo;s Plan  Thesis Defence Design the Software (Python Django) Rich personal website Scholarship Structure of all post French Language (200 words 30 expression) Exercise  Taichi Savate Iaido 形意拳   Hugo Academic New Content
+      <description> 2019&amp;rsquo;s Plan  Thesis Defence Design the Software (Python Django) Rich personal website Scholarship Structure of all post French Language  200 words 30 expression Grammar  Exercise  Taichi Savate Iaido 形意拳   Hugo Academic New Post, Project, Publication
 Structure Of Personal Information </description>
     </item>
     
@@ -77,21 +77,22 @@ Structure Of Personal Information </description>
     </item>
     
     <item>
-      <title>Git</title>
+      <title>Git Commands in Usage</title>
       <link>https://r-zh.github.io/post/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/git/</guid>
-      <description></description>
+      <description>Overview Update website Using Hugo to set personal website has some issues about Git to attention. Source code and website code are independent.
+   Category Source code Website Code     Creation Manually Automatically   File type .md .html   Usage Edit the Content Display the Information   Folder hugo root public    Therefore, we need to develop the source code firstly, and push it to git.</description>
     </item>
     
     <item>
-      <title>Cloud_computing</title>
+      <title>Cloud Computing</title>
       <link>https://r-zh.github.io/post/cloud_computing/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/cloud_computing/</guid>
-      <description></description>
+      <description>![]()</description>
     </item>
     
     <item>
@@ -141,12 +142,12 @@ Structure Of Personal Information </description>
     </item>
     
     <item>
-      <title>Tips in Photoshop</title>
+      <title>Photoshop Tips</title>
       <link>https://r-zh.github.io/post/photoshop/</link>
       <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/photoshop/</guid>
-      <description>hello</description>
+      <description> Create the dynamic picture  导入图片 File -&amp;gt; 设置图片大小（宽500px） 打开时间轴控件 逆向并设置时间 设置过度（每张1秒，间隔20张） 存储为网页可识别  </description>
     </item>
     
   </channel>
