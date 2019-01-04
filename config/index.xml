@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Rui Zhou</title>
+    <link>https://r-zh.github.io/config/</link>
+    <description>Recent content in Overview on Rui Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://r-zh.github.io/config/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chrome Setting</title>
+      <link>https://r-zh.github.io/config/chrome_setting/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/config/chrome_setting/</guid>
+      <description>Plugins After Install Chrome as the Browser, there are some step for plugins.
+Go to Chrome web store and search:
+ Android Emulator Emulate Android App Grammarly Fix grammar problems AdGuard Block ads when watching movies  Bookmarks There are many useful online tools&amp;rsquo; websites. Add them in the bookmarks:
+Program  Web Server 000webhost provides 1 GB free space for server. Just put index.html in the folder public_html Host Domain TK offers free host name for 1 year.</description>
+    </item>
+    
+    <item>
+      <title>Atom Environment Setting</title>
+      <link>https://r-zh.github.io/config/atom_setting/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://r-zh.github.io/config/atom_setting/</guid>
+      <description>After Install Atom as the Editor, there are some tips.
+Hot Key The list is shown in File -&amp;gt; Settings -&amp;gt; Keybindings. Some of them are used frequently.
+ Ctrl-Shift-F Find in the whole project Ctrl-Shift-M Preview Ctrl-Comma Settings  Plugins There are some necessary plugins which can help write the code. Instal them accross File -&amp;gt; Settings
+ Preview Go to Packages and disable mark-preview, then, go to Install and search mark-preview-plus Tool-Bar Search it by tool-bar-markdown-writer, it will need the dependency, include tool-bar and markdown-writer, the system will promt.</description>
+    </item>
+    
+    <item>
+      <title>Drivers</title>
+      <link>https://r-zh.github.io/config/draver_setting/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://r-zh.github.io/config/draver_setting/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Features </title>
+      <link>https://r-zh.github.io/config/language_setting/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://r-zh.github.io/config/language_setting/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
