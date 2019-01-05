@@ -247,6 +247,15 @@
     
     <url>
     
+      <loc>https://r-zh.github.io/tags/dish/</loc>
+      <lastmod>2018-12-16T19:23:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://r-zh.github.io/tags/git/</loc>
       <lastmod>2018-12-16T19:20:56-05:00</lastmod>
       <priority>0</priority>
@@ -258,6 +267,15 @@
     
       <loc>https://r-zh.github.io/tags/hardware/</loc>
       <lastmod>2018-12-16T19:20:28-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://r-zh.github.io/categories/life/</loc>
+      <lastmod>2018-12-16T19:23:49-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -320,7 +338,7 @@
     <url>
     
       <loc>https://r-zh.github.io/tags/</loc>
-      <lastmod>2018-12-16T19:20:56-05:00</lastmod>
+      <lastmod>2018-12-16T19:23:49-05:00</lastmod>
       <priority>0</priority>
     </url>
     
