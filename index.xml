@@ -11,6 +11,69 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>UML Diagram Example</title>
+      <link>https://r-zh.github.io/post/uml/</link>
+      <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/uml/</guid>
+      <description>
+
+&lt;h3 id=&#34;parament-of-acticity&#34;&gt;Parament of Acticity&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/10/07activity1.gif&#34; alt=&#34;07activity1.gif&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/10/activity-diagram-for-banking-system-UML-650x665.png&#34; alt=&#34;activity-diagram-for-banking-system-UML-650x665.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;e-r-structure&#34;&gt;E-R Structure&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/10/software-modeling-with-uml-er-diagram-for-atm-project.gif&#34; alt=&#34;software-modeling-with-uml-er-diagram-for-atm-project.gif&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consideration before Rental</title>
+      <link>https://r-zh.github.io/post/rental/</link>
+      <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/rental/</guid>
+      <description>
+
+&lt;h3 id=&#34;bad-experience&#34;&gt;Bad experience&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Don&amp;rsquo;t trust the landload compeletely. Before getting the &lt;code&gt;key&lt;/code&gt; and clean house, don&amp;rsquo;t pay anything.
+
+&lt;ul&gt;
+&lt;li&gt;Confirm which room, which floor.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Check the &lt;code&gt;door&lt;/code&gt;, make sure it won&amp;rsquo;t be locked by itself.&lt;/li&gt;
+&lt;li&gt;Make sure the time to moving the &lt;code&gt;luggage&lt;/code&gt;, be clear at which day and hour.
+
+&lt;ul&gt;
+&lt;li&gt;If it changes, remind &lt;code&gt;what was discussed&lt;/code&gt; before and ask why.&lt;/li&gt;
+&lt;li&gt;Confirm 10 minutes &lt;code&gt;early&lt;/code&gt; if it is not clear at time.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;For the urgent case, make a &lt;code&gt;call&lt;/code&gt;, don&amp;rsquo;t believe the messages.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;future-alarm&#34;&gt;Future alarm&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Check the staff:
+
+&lt;ul&gt;
+&lt;li&gt;washing machine, dry machine&lt;/li&gt;
+&lt;li&gt;air condition&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;先小人，后君子&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Memorandum</title>
       <link>https://r-zh.github.io/post/memorandum/</link>
       <pubDate>Fri, 04 Jan 2019 10:06:30 -0500</pubDate>
@@ -23,7 +86,7 @@
 &lt;ul&gt;
 &lt;li&gt;Thesis Defence&lt;/li&gt;
 &lt;li&gt;Design the Software (Python Django)&lt;/li&gt;
-&lt;li&gt;Rich personal website&lt;/li&gt;
+&lt;li&gt;Rich personal website - Structure for every post&lt;/li&gt;
 &lt;li&gt;Scholarship&lt;/li&gt;
 &lt;li&gt;Structure of all post&lt;/li&gt;
 &lt;li&gt;French Language
@@ -575,7 +638,7 @@ Language is used to let other undersand us&lt;/li&gt;
 &lt;pre&gt;&lt;code&gt;cd public
 git clone https://github.com/:github_account/:git_repository ./
 cd ..
-hugo 
+hugo
 cd public
 git add .
 git commit -m &#39;update blog&#39;
@@ -592,24 +655,6 @@ git push
       <guid>https://r-zh.github.io/post/cloud_computing/</guid>
       <description>&lt;p&gt;![]()&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Formal Hardware Verification</title>
-      <link>https://r-zh.github.io/post/formal_hv/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/formal_hv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Com_arch</title>
-      <link>https://r-zh.github.io/post/com_arch/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:08 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/com_arch/</guid>
-      <description></description>
     </item>
     
   </channel>

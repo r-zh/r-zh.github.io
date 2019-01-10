@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Course</title>
-      <link>https://r-zh.github.io/categories/course/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/categories/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Courses</title>
       <link>https://r-zh.github.io/categories/courses/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
@@ -30,29 +21,38 @@
     </item>
     
     <item>
-      <title>Life</title>
-      <link>https://r-zh.github.io/categories/life/</link>
-      <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
+      <title>course</title>
+      <link>https://r-zh.github.io/categories/course/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tool</title>
-      <link>https://r-zh.github.io/categories/tool/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/categories/tool/</guid>
+      <guid>https://r-zh.github.io/categories/course/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language</title>
       <link>https://r-zh.github.io/categories/language/</link>
-      <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
+      <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
       
       <guid>https://r-zh.github.io/categories/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://r-zh.github.io/categories/life/</link>
+      <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tool</title>
+      <link>https://r-zh.github.io/categories/tool/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/categories/tool/</guid>
       <description></description>
     </item>
     

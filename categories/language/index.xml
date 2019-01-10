@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 16 Dec 2018 19:21:55 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 2019 10:17:50 -0500</lastBuildDate>
     
 	<atom:link href="https://r-zh.github.io/categories/language/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UML Diagram Example</title>
+      <link>https://r-zh.github.io/post/uml/</link>
+      <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/uml/</guid>
+      <description> Parament of Acticity Example:
+E-R Structure </description>
+    </item>
     
     <item>
       <title>French Learn Tips</title>

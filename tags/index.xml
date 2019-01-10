@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 16 Dec 2018 19:23:49 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 19:20:28 -0500</lastBuildDate>
     
 	<atom:link href="https://r-zh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Dish</title>
-      <link>https://r-zh.github.io/tags/dish/</link>
-      <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/tags/dish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>https://r-zh.github.io/tags/git/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/tags/git/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Hardware</title>
@@ -49,38 +31,11 @@
     </item>
     
     <item>
-      <title>Photoshop</title>
-      <link>https://r-zh.github.io/tags/photoshop/</link>
-      <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
+      <title>Rental</title>
+      <link>https://r-zh.github.io/tags/rental/</link>
+      <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/photoshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service</title>
-      <link>https://r-zh.github.io/tags/service/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/tags/service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theory</title>
-      <link>https://r-zh.github.io/tags/theory/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/tags/theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://r-zh.github.io/tags/web/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/tags/web/</guid>
+      <guid>https://r-zh.github.io/tags/rental/</guid>
       <description></description>
     </item>
     
@@ -94,11 +49,74 @@
     </item>
     
     <item>
+      <title>dish</title>
+      <link>https://r-zh.github.io/tags/dish/</link>
+      <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/dish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>french</title>
       <link>https://r-zh.github.io/tags/french/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
       
       <guid>https://r-zh.github.io/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://r-zh.github.io/tags/git/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoshop</title>
+      <link>https://r-zh.github.io/tags/photoshop/</link>
+      <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://r-zh.github.io/tags/programming/</link>
+      <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>https://r-zh.github.io/tags/service/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory</title>
+      <link>https://r-zh.github.io/tags/theory/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://r-zh.github.io/tags/web/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/web/</guid>
       <description></description>
     </item>
     
