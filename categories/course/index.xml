@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 16 Dec 2018 19:20:48 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 19:21:43 -0500</lastBuildDate>
     
 	<atom:link href="https://r-zh.github.io/categories/course/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software_engineering</title>
+      <link>https://r-zh.github.io/post/software_engineering/</link>
+      <pubDate>Sun, 16 Dec 2018 19:21:43 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/software_engineering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cloud Computing</title>
@@ -19,6 +28,33 @@
       
       <guid>https://r-zh.github.io/post/cloud_computing/</guid>
       <description>![]()</description>
+    </item>
+    
+    <item>
+      <title>Formal Hardware Verification</title>
+      <link>https://r-zh.github.io/post/formal_hv/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/formal_hv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Architecture</title>
+      <link>https://r-zh.github.io/post/com_arch/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:08 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/com_arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization Technology</title>
+      <link>https://r-zh.github.io/post/op_tech/</link>
+      <pubDate>Sun, 16 Dec 2018 19:19:51 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/op_tech/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -84,8 +84,12 @@
 &lt;h1 id=&#34;2019-s-plan&#34;&gt;2019&amp;rsquo;s Plan&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Thesis Defence&lt;/li&gt;
-&lt;li&gt;Design the Software (Python Django)&lt;/li&gt;
+&lt;li&gt;Thesis Defence
+
+&lt;ul&gt;
+&lt;li&gt;maybe a long time to go&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;learning Python Django&lt;/li&gt;
 &lt;li&gt;Rich personal website - Structure for every post&lt;/li&gt;
 &lt;li&gt;Scholarship&lt;/li&gt;
 &lt;li&gt;Structure of all post&lt;/li&gt;
@@ -333,6 +337,10 @@
   
 &lt;/div&gt;
 
+&lt;h3 id=&#34;家庭专用火锅&#34;&gt;家庭专用火锅&lt;/h3&gt;
+
+&lt;p&gt;准备材料：香菇 泡面 白菜 羊肉 酒&lt;/p&gt;
+
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;吃完肉后，喝一杯浓茶帮助消化，人生极大乐事&lt;/em&gt;&lt;/p&gt;
@@ -378,7 +386,7 @@
     </item>
     
     <item>
-      <title>English</title>
+      <title>English &amp; Expression Tips</title>
       <link>https://r-zh.github.io/post/english/</link>
       <pubDate>Sun, 16 Dec 2018 19:22:05 -0500</pubDate>
       
@@ -427,32 +435,32 @@ Language is used to let other undersand us&lt;/li&gt;
 &lt;tr&gt;
 &lt;td&gt;et&lt;/td&gt;
 &lt;td&gt;and&lt;/td&gt;
-&lt;td&gt;aussi&lt;/td&gt;
-&lt;td&gt;also&lt;/td&gt;
+&lt;td&gt;ou&lt;/td&gt;
+&lt;td&gt;or&lt;/td&gt;
 &lt;td&gt;autre&lt;/td&gt;
 &lt;td&gt;other&lt;/td&gt;
-&lt;td&gt;même&lt;/td&gt;
-&lt;td&gt;same&lt;/td&gt;
+&lt;td&gt;d&amp;rsquo;abord&lt;/td&gt;
+&lt;td&gt;first&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;ou&lt;/td&gt;
-&lt;td&gt;or&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;mais&lt;/td&gt;
 &lt;td&gt;but&lt;/td&gt;
 &lt;td&gt;peut-être&lt;/td&gt;
 &lt;td&gt;maybe&lt;/td&gt;
-&lt;td&gt;si&lt;/td&gt;
-&lt;td&gt;if&lt;/td&gt;
+&lt;td&gt;ensuite&lt;/td&gt;
+&lt;td&gt;then&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;alors&lt;/td&gt;
-&lt;td&gt;so,then&lt;/td&gt;
-&lt;td&gt;d&amp;rsquo;abord&lt;/td&gt;
-&lt;td&gt;first&lt;/td&gt;
-&lt;td&gt;ensuite&lt;/td&gt;
-&lt;td&gt;then&lt;/td&gt;
+&lt;td&gt;aussi&lt;/td&gt;
+&lt;td&gt;also&lt;/td&gt;
+&lt;td&gt;toutefois&lt;/td&gt;
+&lt;td&gt;however&lt;/td&gt;
+&lt;td&gt;si&lt;/td&gt;
+&lt;td&gt;if&lt;/td&gt;
 &lt;td&gt;donc&lt;/td&gt;
 &lt;td&gt;therefore&lt;/td&gt;
 &lt;/tr&gt;
@@ -462,13 +470,15 @@ Language is used to let other undersand us&lt;/li&gt;
 &lt;td&gt;me too&lt;/td&gt;
 &lt;td&gt;pas moi&lt;/td&gt;
 &lt;td&gt;not me&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;même&lt;/td&gt;
+&lt;td&gt;same&lt;/td&gt;
+&lt;td&gt;alors&lt;/td&gt;
+&lt;td&gt;so, then&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h2 id=&#34;verbe&#34;&gt;Verbe&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -558,7 +568,7 @@ Language is used to let other undersand us&lt;/li&gt;
     </item>
     
     <item>
-      <title>Matlab</title>
+      <title>Matlab Simple Usage</title>
       <link>https://r-zh.github.io/post/matlab/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:26 -0500</pubDate>
       
@@ -567,7 +577,7 @@ Language is used to let other undersand us&lt;/li&gt;
     </item>
     
     <item>
-      <title>Machine_learning</title>
+      <title>Machine Learning Basic Knowledge</title>
       <link>https://r-zh.github.io/post/machine_learning/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:11 -0500</pubDate>
       

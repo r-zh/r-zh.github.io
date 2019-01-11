@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 16 Dec 2018 19:20:28 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 19:23:28 -0500</lastBuildDate>
     
 	<atom:link href="https://r-zh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hardware</title>
-      <link>https://r-zh.github.io/tags/hardware/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/tags/hardware/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Mobile Game</title>
@@ -58,6 +49,15 @@
     </item>
     
     <item>
+      <title>english</title>
+      <link>https://r-zh.github.io/tags/english/</link>
+      <pubDate>Sun, 16 Dec 2018 19:22:05 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>french</title>
       <link>https://r-zh.github.io/tags/french/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
@@ -72,6 +72,24 @@
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
       <guid>https://r-zh.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://r-zh.github.io/tags/hardware/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:28 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://r-zh.github.io/tags/math/</link>
+      <pubDate>Sun, 16 Dec 2018 19:21:26 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/math/</guid>
       <description></description>
     </item>
     
@@ -108,6 +126,15 @@
       <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
       
       <guid>https://r-zh.github.io/tags/theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thesis</title>
+      <link>https://r-zh.github.io/tags/thesis/</link>
+      <pubDate>Sun, 16 Dec 2018 19:19:04 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/tags/thesis/</guid>
       <description></description>
     </item>
     
