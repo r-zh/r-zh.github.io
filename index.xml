@@ -11,6 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Exercise in Different Culture</title>
+      <link>https://r-zh.github.io/post/exercise/</link>
+      <pubDate>Mon, 14 Jan 2019 08:42:04 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/exercise/</guid>
+      <description>
+
+&lt;h3 id=&#34;savate&#34;&gt;Savate&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/14/savate.jpg&#34; alt=&#34;savate.jpg&#34; /&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/909w4v1HNFA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;八段锦&#34;&gt;八段锦&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://a.photo/image/BQGG9&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://a.photo/images/2019/01/14/eightAction.jpg&#34; alt=&#34;eightAction.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/QDOWA1OwscY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;形意拳&#34;&gt;形意拳&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/L_79JklbCOg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;iaido&#34;&gt;Iaido&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/sDfcu9BP5fI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>UML Diagram Example</title>
       <link>https://r-zh.github.io/post/uml/</link>
       <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
@@ -395,7 +441,7 @@
     </item>
     
     <item>
-      <title>French Learn Tips</title>
+      <title>French Learning Tips</title>
       <link>https://r-zh.github.io/post/french/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
       
@@ -444,19 +490,19 @@ Language is used to let other undersand us&lt;/li&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;aussi&lt;/td&gt;
+&lt;td&gt;also&lt;/td&gt;
 &lt;td&gt;mais&lt;/td&gt;
 &lt;td&gt;but&lt;/td&gt;
 &lt;td&gt;peut-être&lt;/td&gt;
 &lt;td&gt;maybe&lt;/td&gt;
 &lt;td&gt;ensuite&lt;/td&gt;
-&lt;td&gt;then&lt;/td&gt;
+&lt;td&gt;then, hence&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;aussi&lt;/td&gt;
-&lt;td&gt;also&lt;/td&gt;
+&lt;td&gt;pour&lt;/td&gt;
+&lt;td&gt;for&lt;/td&gt;
 &lt;td&gt;toutefois&lt;/td&gt;
 &lt;td&gt;however&lt;/td&gt;
 &lt;td&gt;si&lt;/td&gt;
@@ -474,6 +520,28 @@ Language is used to let other undersand us&lt;/li&gt;
 &lt;td&gt;same&lt;/td&gt;
 &lt;td&gt;alors&lt;/td&gt;
 &lt;td&gt;so, then&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;depuis&lt;/td&gt;
+&lt;td&gt;since&lt;/td&gt;
+&lt;td&gt;dans&lt;/td&gt;
+&lt;td&gt;in&lt;/td&gt;
+&lt;td&gt;sur&lt;/td&gt;
+&lt;td&gt;on&lt;/td&gt;
+&lt;td&gt;à&lt;/td&gt;
+&lt;td&gt;at&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;quoi de plus&lt;/td&gt;
+&lt;td&gt;what&amp;rsquo;s more&lt;/td&gt;
+&lt;td&gt;bien que&lt;/td&gt;
+&lt;td&gt;although&lt;/td&gt;
+&lt;td&gt;par&lt;/td&gt;
+&lt;td&gt;by&lt;/td&gt;
+&lt;td&gt;par&lt;/td&gt;
+&lt;td&gt;per&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -654,16 +722,6 @@ git add .
 git commit -m &#39;update blog&#39;
 git push
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>https://r-zh.github.io/post/cloud_computing/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/cloud_computing/</guid>
-      <description>&lt;p&gt;![]()&lt;/p&gt;
 </description>
     </item>
     
