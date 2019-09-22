@@ -214,15 +214,6 @@
     </item>
     
     <item>
-      <title>Characterizing logging practices in Android applications</title>
-      <link>https://r-zh.github.io/publication/log/</link>
-      <pubDate>Sun, 16 Dec 2018 19:25:24 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/publication/log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DIY Dishes</title>
       <link>https://r-zh.github.io/post/food/</link>
       <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
@@ -543,6 +534,17 @@ Language is used to let other undersand us&lt;/li&gt;
 &lt;td&gt;par&lt;/td&gt;
 &lt;td&gt;per&lt;/td&gt;
 &lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;assez&lt;/td&gt;
+&lt;td&gt;enough&lt;/td&gt;
+&lt;td&gt;plutôt&lt;/td&gt;
+&lt;td&gt;rather&lt;/td&gt;
+&lt;td&gt;trés&lt;/td&gt;
+&lt;td&gt;very&lt;/td&gt;
+&lt;td&gt;ne pas&lt;/td&gt;
+&lt;td&gt;not&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
@@ -722,6 +724,16 @@ git add .
 git commit -m &#39;update blog&#39;
 git push
 &lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://r-zh.github.io/post/cloud_computing/</link>
+      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/cloud_computing/</guid>
+      <description>&lt;p&gt;![]()&lt;/p&gt;
 </description>
     </item>
     
