@@ -11,6 +11,89 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Preparing For Exams</title>
+      <link>https://r-zh.github.io/post/preparing_exam/</link>
+      <pubDate>Thu, 03 Oct 2019 14:22:00 -0400</pubDate>
+      
+      <guid>https://r-zh.github.io/post/preparing_exam/</guid>
+      <description>
+
+&lt;h2 id=&#34;during-the-study&#34;&gt;During the Study&lt;/h2&gt;
+
+&lt;h3 id=&#34;about-the-coming-lecture-within-24-hours&#34;&gt;About the coming lecture (within 24 hours)&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Preview the materials before the lecture.&lt;/li&gt;
+&lt;li&gt;Make copy of slides and add notes During the lecture.&lt;/li&gt;
+&lt;li&gt;Organized notes in textbook as a resource. Here is &amp;ldquo;what I learn&amp;rdquo; after lecture.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;memorize&#34;&gt;Memorize&lt;/h3&gt;
+
+&lt;p&gt;Chunking: Put the complex bodies into smaller chunks. Ex.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;how do you remember the phone number? 5141231357? or 514-123-4757?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Classifying, summarizing, categorizing, sequencing, grouping, using acronyms, mnemonics&lt;/p&gt;
+
+&lt;h3 id=&#34;active-study-technigques&#34;&gt;Active Study Technigques&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Notes making charts for comparion&lt;/li&gt;
+&lt;li&gt;Woking on problems&lt;/li&gt;
+&lt;li&gt;Concept maps&lt;/li&gt;
+&lt;li&gt;Join class discussion&lt;/li&gt;
+&lt;li&gt;Teach someone else (no background) about your learn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;examination-is-comming&#34;&gt;Examination is comming&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;Do the thinking beofre hand&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;before-exam&#34;&gt;Before Exam&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make a plan for review and study&lt;/li&gt;
+&lt;li&gt;In the final class: Which part is &lt;code&gt;important&lt;/code&gt;, which part is &lt;code&gt;tricky&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Organize sudy materials&lt;/li&gt;
+&lt;li&gt;Study group: everybody wants to study with sb&lt;/li&gt;
+&lt;li&gt;Rehearse your learning: talk or teach to someone else&lt;/li&gt;
+&lt;li&gt;Practice the exam and test yourself ( Time limition; without acess to solution)&lt;/li&gt;
+&lt;li&gt;Have your model: keep it! some people told you skip someone you good at? NO! do not do it in the exam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;during-exam&#34;&gt;During Exam&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Confident, but prepared! Don&amp;rsquo;t overestimate yourself&lt;/li&gt;
+&lt;li&gt;Double check when and where&lt;/li&gt;
+&lt;li&gt;Try to get more info: how long, how many questions; Copies of past exams&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Look through the questions, confirm it&amp;rsquo;s clear&lt;/li&gt;
+&lt;li&gt;Writing all the thing down in your brain after you look at this papers. to avoid you forget them.&lt;/li&gt;
+&lt;li&gt;Pick the best answers: circle the key info extrem words;&lt;/li&gt;
+&lt;li&gt;Some questions you do not know; ignore them: most points are lost in something you know; Get more points in the exam; Rather than loss less points&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t miss the task! concept they know all of them but miss the task&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When you review: Go for your first answer: if you have proves that you are wrong, change it; otherwise no!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;after-example-learn-from-exam&#34;&gt;After Example: learn from exam&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;why I loss the point? Read question wrong or miss the key word?&lt;/li&gt;
+&lt;li&gt;which undersatnding level was required? Recognize it? Know it? Understand it? Use it?&lt;/li&gt;
+&lt;li&gt;Did you a have a deep enough understanding of the materials?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Exercise in Different Culture</title>
       <link>https://r-zh.github.io/post/exercise/</link>
       <pubDate>Mon, 14 Jan 2019 08:42:04 -0500</pubDate>
@@ -423,15 +506,6 @@
     </item>
     
     <item>
-      <title>English &amp; Expression Tips</title>
-      <link>https://r-zh.github.io/post/english/</link>
-      <pubDate>Sun, 16 Dec 2018 19:22:05 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>French Learning Tips</title>
       <link>https://r-zh.github.io/post/french/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
@@ -629,33 +703,6 @@ Language is used to let other undersand us&lt;/li&gt;
     </item>
     
     <item>
-      <title>Software_engineering</title>
-      <link>https://r-zh.github.io/post/software_engineering/</link>
-      <pubDate>Sun, 16 Dec 2018 19:21:43 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/software_engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matlab Simple Usage</title>
-      <link>https://r-zh.github.io/post/matlab/</link>
-      <pubDate>Sun, 16 Dec 2018 19:21:26 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning Basic Knowledge</title>
-      <link>https://r-zh.github.io/post/machine_learning/</link>
-      <pubDate>Sun, 16 Dec 2018 19:21:11 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/machine_learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Git Commands in Usage</title>
       <link>https://r-zh.github.io/post/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
@@ -724,16 +771,99 @@ git add .
 git commit -m &#39;update blog&#39;
 git push
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Don&amp;rsquo;t forget the &lt;code&gt;./&lt;/code&gt; in the second command. Otherwise, the public will have one folder rather than all code library&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Cloud Computing</title>
-      <link>https://r-zh.github.io/post/cloud_computing/</link>
-      <pubDate>Sun, 16 Dec 2018 19:20:48 -0500</pubDate>
+      <title>Mobile Development Summary</title>
+      <link>https://r-zh.github.io/post/mobile/</link>
+      <pubDate>Sun, 16 Dec 2018 19:19:31 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/cloud_computing/</guid>
-      <description>&lt;p&gt;![]()&lt;/p&gt;
+      <guid>https://r-zh.github.io/post/mobile/</guid>
+      <description>&lt;p&gt;If you are urgent to create the App. Follow the link&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apicloud.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;APICloud&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gonative.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Gonative&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;They have the service for generate Mobile App automatically with H5 Webpages&amp;rsquo; link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photoshop Tips</title>
+      <link>https://r-zh.github.io/post/photoshop/</link>
+      <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/photoshop/</guid>
+      <description>
+
+&lt;h2 id=&#34;create-the-dynamic-picture&#34;&gt;Create the dynamic picture&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;导入图片 &lt;code&gt;File -&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;设置图片大小（宽500px）&lt;/li&gt;
+&lt;li&gt;打开时间轴控件&lt;/li&gt;
+&lt;li&gt;逆向并设置时间&lt;/li&gt;
+&lt;li&gt;设置过度（每张1秒，间隔20张）&lt;/li&gt;
+&lt;li&gt;存储为网页可识别&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atom Environment Setting</title>
+      <link>https://r-zh.github.io/config/atom_setting/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://r-zh.github.io/config/atom_setting/</guid>
+      <description>
+
+&lt;p&gt;After Install Atom as the Editor, there are some tips.&lt;/p&gt;
+
+&lt;h2 id=&#34;hot-key&#34;&gt;Hot Key&lt;/h2&gt;
+
+&lt;p&gt;The list is shown in &lt;code&gt;File -&amp;gt; Settings -&amp;gt; Keybindings&lt;/code&gt;. Some of them are used frequently.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ctrl-Shift-F&lt;/strong&gt; Find in the whole project&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ctrl-Shift-M&lt;/strong&gt; Preview&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ctrl-Comma&lt;/strong&gt; Settings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
+
+&lt;p&gt;There are some necessary plugins which can help write the code. Instal them accross &lt;code&gt;File -&amp;gt; Settings&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Preview&lt;/strong&gt; Go to &lt;em&gt;Packages&lt;/em&gt; and disable &lt;code&gt;mark-preview&lt;/code&gt;, then, go to &lt;em&gt;Install&lt;/em&gt; and search &lt;code&gt;mark-preview-plus&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tool-Bar&lt;/strong&gt; Search it by &lt;code&gt;tool-bar-markdown-writer&lt;/code&gt;, it will need the dependency, include tool-bar and markdown-writer, the system will promt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt; Search it by &lt;code&gt;language-markdown&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Table&lt;/strong&gt; Search it by &lt;code&gt;markdown-table-editor&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drivers</title>
+      <link>https://r-zh.github.io/config/draver_setting/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://r-zh.github.io/config/draver_setting/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
