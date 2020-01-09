@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memorandum on Rui Zhou</title>
+    <link>https://r-zh.github.io/tags/memorandum/</link>
+    <description>Recent content in Memorandum on Rui Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 10:06:30 -0500</lastBuildDate>
+    
+	<atom:link href="https://r-zh.github.io/tags/memorandum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcom back to the Page &gt;_&lt;</title>
+      <link>https://r-zh.github.io/post/memorandum/</link>
+      <pubDate>Sat, 04 Jan 2020 10:06:30 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/memorandum/</guid>
+      <description> When suddenly remember I have the blog:  Go to the blog folder and open the Shell: Hugo server Search for How to write Markdown Check Hugo Academic if need New Post, Project, Publication Run git pull After changing, build public folder Run  git clone https://github.com/r-zh/r-zh.github.io.git  After changing, Upload the new commit  2020&amp;rsquo;s Plan  Thesis Defence  soon  learning Python Django Rich personal website - Structure for every post Drive license Join one vulunteer activity French Language  200 words 30 expression Grammar  Exercise  Taichi 24 Savate Iaido   </description>
+    </item>
+    
+  </channel>
+</rss>

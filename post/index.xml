@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://r-zh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Write the Master Thesis?</title>
+      <link>https://r-zh.github.io/post/thesis/</link>
+      <pubDate>Thu, 09 Jan 2020 11:50:51 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/thesis/</guid>
+      <description> I shared my experience about how to write my master thesis in English, Chinese and French. Here is the Playlist of videos on the Youtube.
+English Version   汉语版本   Version de Français   </description>
+    </item>
+    
+    <item>
+      <title>Welcom back to the Page &gt;_&lt;</title>
+      <link>https://r-zh.github.io/post/memorandum/</link>
+      <pubDate>Sat, 04 Jan 2020 10:06:30 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/memorandum/</guid>
+      <description> When suddenly remember I have the blog:  Go to the blog folder and open the Shell: Hugo server Search for How to write Markdown Check Hugo Academic if need New Post, Project, Publication Run git pull After changing, build public folder Run  git clone https://github.com/r-zh/r-zh.github.io.git  After changing, Upload the new commit  2020&amp;rsquo;s Plan  Thesis Defence  soon  learning Python Django Rich personal website - Structure for every post Drive license Join one vulunteer activity French Language  200 words 30 expression Grammar  Exercise  Taichi 24 Savate Iaido   </description>
+    </item>
     
     <item>
       <title>Preparing For Exams</title>
@@ -33,32 +52,12 @@ how do you remember the phone number? 5141231357? or 514-123-4757?  Classifying,
     </item>
     
     <item>
-      <title>UML Diagram Example</title>
-      <link>https://r-zh.github.io/post/uml/</link>
-      <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/uml/</guid>
-      <description> Parament of Acticity Example:
-E-R Structure </description>
-    </item>
-    
-    <item>
       <title>Consideration before Rental</title>
       <link>https://r-zh.github.io/post/rental/</link>
       <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
       
       <guid>https://r-zh.github.io/post/rental/</guid>
       <description>Bad experience  Don&amp;rsquo;t trust the landload compeletely. Before getting the key and clean house, don&amp;rsquo;t pay anything.  Confirm which room, which floor.  Check the door, make sure it won&amp;rsquo;t be locked by itself. Make sure the time to moving the luggage, be clear at which day and hour.  If it changes, remind what was discussed before and ask why. Confirm 10 minutes early if it is not clear at time.</description>
-    </item>
-    
-    <item>
-      <title>Memorandum</title>
-      <link>https://r-zh.github.io/post/memorandum/</link>
-      <pubDate>Fri, 04 Jan 2019 10:06:30 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/memorandum/</guid>
-      <description> 2019&amp;rsquo;s Plan  Thesis Defence  maybe a long time to go  learning Python Django Rich personal website - Structure for every post Scholarship Structure of all post French Language  200 words 30 expression Grammar  Exercise  Taichi Savate Iaido 形意拳   Hugo Academic New Post, Project, Publication
-Structure Of Personal Information </description>
     </item>
     
     <item>

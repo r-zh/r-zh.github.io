@@ -7,8 +7,96 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Write the Master Thesis?</title>
+      <link>https://r-zh.github.io/post/thesis/</link>
+      <pubDate>Thu, 09 Jan 2020 11:50:51 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/thesis/</guid>
+      <description>
+
+&lt;p&gt;I shared my experience about how to write my master thesis in English, Chinese and French. Here is the &lt;a href=&#34;https://www.youtube.com/playlist?list=PL66KAFVYfnJRnKlqF3VBy-SmSk8cGrKk3&#34; target=&#34;_blank&#34;&gt;Playlist&lt;/a&gt; of videos on the Youtube.&lt;/p&gt;
+
+&lt;h3 id=&#34;english-version&#34;&gt;English Version&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/4Phgn9CwiEQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;汉语版本&#34;&gt;汉语版本&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/3gNbv4PKiok&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;version-de-français&#34;&gt;Version de Français&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/S6yj3AxLSwc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Welcom back to the Page &gt;_&lt;</title>
+      <link>https://r-zh.github.io/post/memorandum/</link>
+      <pubDate>Sat, 04 Jan 2020 10:06:30 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/post/memorandum/</guid>
+      <description>
+
+&lt;h2 id=&#34;when-suddenly-remember-i-have-the-blog&#34;&gt;When suddenly remember I have the blog:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to the blog folder and open the Shell: &lt;code&gt;Hugo server&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Search for &lt;a href=&#34;http://xianbai.me/learn-md/article/about/readme.html&#34; target=&#34;_blank&#34;&gt;How to write Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Check Hugo Academic if need &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;New Post, Project, Publication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;git pull&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;After changing, build &lt;code&gt;public&lt;/code&gt; folder Run &lt;br&gt;
+&lt;code&gt;
+git clone https://github.com/r-zh/r-zh.github.io.git
+&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;After changing, &lt;a href=&#34;https://r-zh.github.io/post/git/&#34; target=&#34;_blank&#34;&gt;Upload the new commit&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;2020-s-plan&#34;&gt;2020&amp;rsquo;s Plan&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thesis Defence
+
+&lt;ul&gt;
+&lt;li&gt;soon&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;learning Python Django&lt;/li&gt;
+&lt;li&gt;Rich personal website - Structure for every post&lt;/li&gt;
+&lt;li&gt;Drive license&lt;/li&gt;
+&lt;li&gt;Join one vulunteer activity&lt;/li&gt;
+&lt;li&gt;French Language
+
+&lt;ul&gt;
+&lt;li&gt;200 words&lt;/li&gt;
+&lt;li&gt;30 expression&lt;/li&gt;
+&lt;li&gt;Grammar&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Exercise
+
+&lt;ul&gt;
+&lt;li&gt;Taichi 24&lt;/li&gt;
+&lt;li&gt;Savate&lt;/li&gt;
+&lt;li&gt;Iaido&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Preparing For Exams</title>
@@ -140,28 +228,6 @@
     </item>
     
     <item>
-      <title>UML Diagram Example</title>
-      <link>https://r-zh.github.io/post/uml/</link>
-      <pubDate>Thu, 10 Jan 2019 10:17:50 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/uml/</guid>
-      <description>
-
-&lt;h3 id=&#34;parament-of-acticity&#34;&gt;Parament of Acticity&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/10/07activity1.gif&#34; alt=&#34;07activity1.gif&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/10/activity-diagram-for-banking-system-UML-650x665.png&#34; alt=&#34;activity-diagram-for-banking-system-UML-650x665.png&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;e-r-structure&#34;&gt;E-R Structure&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/10/software-modeling-with-uml-er-diagram-for-atm-project.gif&#34; alt=&#34;software-modeling-with-uml-er-diagram-for-atm-project.gif&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Consideration before Rental</title>
       <link>https://r-zh.github.io/post/rental/</link>
       <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
@@ -203,56 +269,9 @@
     </item>
     
     <item>
-      <title>Memorandum</title>
-      <link>https://r-zh.github.io/post/memorandum/</link>
-      <pubDate>Fri, 04 Jan 2019 10:06:30 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/post/memorandum/</guid>
-      <description>
-
-&lt;h1 id=&#34;2019-s-plan&#34;&gt;2019&amp;rsquo;s Plan&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Thesis Defence
-
-&lt;ul&gt;
-&lt;li&gt;maybe a long time to go&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;learning Python Django&lt;/li&gt;
-&lt;li&gt;Rich personal website - Structure for every post&lt;/li&gt;
-&lt;li&gt;Scholarship&lt;/li&gt;
-&lt;li&gt;Structure of all post&lt;/li&gt;
-&lt;li&gt;French Language
-
-&lt;ul&gt;
-&lt;li&gt;200 words&lt;/li&gt;
-&lt;li&gt;30 expression&lt;/li&gt;
-&lt;li&gt;Grammar&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Exercise
-
-&lt;ul&gt;
-&lt;li&gt;Taichi&lt;/li&gt;
-&lt;li&gt;Savate&lt;/li&gt;
-&lt;li&gt;Iaido&lt;/li&gt;
-&lt;li&gt;形意拳&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;hugo-academic&#34;&gt;Hugo Academic&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;New Post, Project, Publication&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;structure-of-personal-information&#34;&gt;Structure Of Personal Information&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/04/contactStracture.png&#34; alt=&#34;contactStracture.png&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Chrome Setting</title>
       <link>https://r-zh.github.io/config/chrome_setting/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0600</pubDate>
       
       <guid>https://r-zh.github.io/config/chrome_setting/</guid>
       <description>
@@ -771,8 +790,6 @@ git add .
 git commit -m &#39;update blog&#39;
 git push
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Don&amp;rsquo;t forget the &lt;code&gt;./&lt;/code&gt; in the second command. Otherwise, the public will have one folder rather than all code library&lt;/p&gt;
 </description>
     </item>
     
@@ -817,7 +834,7 @@ git push
     <item>
       <title>Atom Environment Setting</title>
       <link>https://r-zh.github.io/config/atom_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>https://r-zh.github.io/config/atom_setting/</guid>
       <description>
@@ -850,7 +867,7 @@ git push
     <item>
       <title>Drivers</title>
       <link>https://r-zh.github.io/config/draver_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>https://r-zh.github.io/config/draver_setting/</guid>
       <description>
