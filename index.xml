@@ -11,6 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>M.A.Sc VS M.Eng</title>
+      <link>https://r-zh.github.io/post/master_type/</link>
+      <pubDate>Sun, 19 Jan 2020 09:49:28 -0600</pubDate>
+      
+      <guid>https://r-zh.github.io/post/master_type/</guid>
+      <description>
+
+&lt;p&gt;I would like to share my experience about my view of M.A.Sc and M.Eng in English, Chinese and French. The following are the videos on the Youtube.&lt;/p&gt;
+
+&lt;h3 id=&#34;english-version&#34;&gt;English Version&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/u7iR5SQ4Puw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;汉语版本&#34;&gt;汉语版本&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/WQEVAppoiOI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;version-de-français&#34;&gt;Version de Français&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/CUcffJMuoEo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
+      <link>https://r-zh.github.io/publication/log/</link>
+      <pubDate>Sat, 18 Jan 2020 19:25:24 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/publication/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How to Write the Master Thesis?</title>
       <link>https://r-zh.github.io/post/thesis/</link>
       <pubDate>Thu, 09 Jan 2020 11:50:51 -0500</pubDate>
@@ -493,19 +538,9 @@ git clone https://github.com/r-zh/r-zh.github.io.git
       
       <guid>https://r-zh.github.io/project/mobile_game/</guid>
       <description>&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;C++ 2D Game Engine, Advanture Game
+&lt;li&gt;&lt;p&gt;C++ 2D Game Engine, Advanture Game&lt;/p&gt;&lt;/li&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JaSA-VlXgv4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pygame, Advanture Game
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/xASl45NFnZk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pygame, Advanture Game&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -828,59 +863,6 @@ git push
 &lt;li&gt;设置过度（每张1秒，间隔20张）&lt;/li&gt;
 &lt;li&gt;存储为网页可识别&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Atom Environment Setting</title>
-      <link>https://r-zh.github.io/config/atom_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/config/atom_setting/</guid>
-      <description>
-
-&lt;p&gt;After Install Atom as the Editor, there are some tips.&lt;/p&gt;
-
-&lt;h2 id=&#34;hot-key&#34;&gt;Hot Key&lt;/h2&gt;
-
-&lt;p&gt;The list is shown in &lt;code&gt;File -&amp;gt; Settings -&amp;gt; Keybindings&lt;/code&gt;. Some of them are used frequently.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ctrl-Shift-F&lt;/strong&gt; Find in the whole project&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ctrl-Shift-M&lt;/strong&gt; Preview&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ctrl-Comma&lt;/strong&gt; Settings&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
-
-&lt;p&gt;There are some necessary plugins which can help write the code. Instal them accross &lt;code&gt;File -&amp;gt; Settings&lt;/code&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Preview&lt;/strong&gt; Go to &lt;em&gt;Packages&lt;/em&gt; and disable &lt;code&gt;mark-preview&lt;/code&gt;, then, go to &lt;em&gt;Install&lt;/em&gt; and search &lt;code&gt;mark-preview-plus&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tool-Bar&lt;/strong&gt; Search it by &lt;code&gt;tool-bar-markdown-writer&lt;/code&gt;, it will need the dependency, include tool-bar and markdown-writer, the system will promt.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt; Search it by &lt;code&gt;language-markdown&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Table&lt;/strong&gt; Search it by &lt;code&gt;markdown-table-editor&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Drivers</title>
-      <link>https://r-zh.github.io/config/draver_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/config/draver_setting/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

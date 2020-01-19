@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Logging is an essential software practice that is used by developers to debug, diagnose and audit software systems. Despite the advantages of logging, poor logging practices can potentially leak sensitive data. The problem of data leakage is more severe in applications that run on mobile devices, since these devices carry sensitive identification information ranging from physical device identifiers (e.g., IMEI MAC address) to communications network identifiers (e.g., SIM, IP, Bluetooth ID), and application-specific identifiers related to the location and the users’ accounts. This preliminary study explores the impact of logging practices on data leakage of such sensitive information. Particularly, we want to investigate whether log-related statements inserted into an application code could lead to data leakage. While studying logging practices in mobile applications is an active research area, to our knowledge, this is the first study that explores the interplay between logging and security in the context of mobile applications for Android. We propose an approach called MobiLogLeak, an approach that identifies log statements in deployed apps that leak sensitive data. MobiLogLeak relies on taint flow analysis. Among 5,000 Android apps that we studied, we found that 200 apps leak sensitive data through logging.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://r-zh.github.io/publication/log/">
@@ -110,20 +110,20 @@
   
   <meta property="og:site_name" content="Rui Zhou">
   <meta property="og:url" content="https://r-zh.github.io/publication/log/">
-  <meta property="og:title" content="Characterizing logging practices in Android applications | Rui Zhou">
-  <meta property="og:description" content=""><meta property="og:image" content="https://r-zh.github.io/img/logo.png">
+  <meta property="og:title" content="MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices | Rui Zhou">
+  <meta property="og:description" content="Logging is an essential software practice that is used by developers to debug, diagnose and audit software systems. Despite the advantages of logging, poor logging practices can potentially leak sensitive data. The problem of data leakage is more severe in applications that run on mobile devices, since these devices carry sensitive identification information ranging from physical device identifiers (e.g., IMEI MAC address) to communications network identifiers (e.g., SIM, IP, Bluetooth ID), and application-specific identifiers related to the location and the users’ accounts. This preliminary study explores the impact of logging practices on data leakage of such sensitive information. Particularly, we want to investigate whether log-related statements inserted into an application code could lead to data leakage. While studying logging practices in mobile applications is an active research area, to our knowledge, this is the first study that explores the interplay between logging and security in the context of mobile applications for Android. We propose an approach called MobiLogLeak, an approach that identifies log statements in deployed apps that leak sensitive data. MobiLogLeak relies on taint flow analysis. Among 5,000 Android apps that we studied, we found that 200 apps leak sensitive data through logging."><meta property="og:image" content="https://r-zh.github.io/img/logo.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-12-16T19:25:24-05:00">
+  <meta property="article:published_time" content="2020-01-18T19:25:24-05:00">
   
-  <meta property="article:modified_time" content="2018-12-16T19:25:24-05:00">
-  
-
+  <meta property="article:modified_time" content="2020-01-18T19:25:24-05:00">
   
 
   
 
-  <title>Characterizing logging practices in Android applications | Rui Zhou</title>
+  
+
+  <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices | Rui Zhou</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -207,6 +207,25 @@
         
 
         <li class="nav-item">
+          <a class="nav-link" href="/#experience">
+            
+            <span>Experience</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link" href="/#publications_selected">
             
             <span>Publications</span>
@@ -226,9 +245,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#posts">
+          <a class="nav-link" href="/#projects">
             
-            <span>Posts</span>
+            <span>Projects</span>
             
           </a>
         </li>
@@ -245,9 +264,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#projects">
+          <a class="nav-link" href="/#posts">
             
-            <span>Projects</span>
+            <span>Posts</span>
             
           </a>
         </li>
@@ -338,7 +357,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Characterizing logging practices in Android applications</h1>
+  <h1 itemprop="name">MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</h1>
 
   
 
@@ -353,6 +372,15 @@
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">Rui Zhou</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Mohammad Hamdaqa</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Haipeng Cai</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Abdelwahab Hamou-Lhadj</span>
     </span>
     
   </div>
@@ -360,9 +388,9 @@
 
   <span class="article-date">
     
-    <meta content="2018-12-16 19:25:24 -0500 EST" itemprop="datePublished">
-    <time datetime="2018-12-16 19:25:24 -0500 EST" itemprop="dateModified">
-      Dec 16, 2018
+    <meta content="2020-01-18 19:25:24 -0500 -0500" itemprop="datePublished">
+    <time datetime="2020-01-18 19:25:24 -0500 -0500" itemprop="dateModified">
+      Jan 18, 2020
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -382,7 +410,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Characterizing%20logging%20practices%20in%20Android%20applications&amp;url=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f"
+         href="https://twitter.com/intent/tweet?text=MobiLogLeak%3a%20A%20Preliminary%20Study%20on%20Data%20Leakage%20Caused%20by%20Poor%20Logging%20Practices&amp;url=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -396,21 +424,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f&amp;title=Characterizing%20logging%20practices%20in%20Android%20applications"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f&amp;title=MobiLogLeak%3a%20A%20Preliminary%20Study%20on%20Data%20Leakage%20Caused%20by%20Poor%20Logging%20Practices"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f&amp;title=Characterizing%20logging%20practices%20in%20Android%20applications"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f&amp;title=MobiLogLeak%3a%20A%20Preliminary%20Study%20on%20Data%20Leakage%20Caused%20by%20Poor%20Logging%20Practices"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Characterizing%20logging%20practices%20in%20Android%20applications&amp;body=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f">
+         href="mailto:?subject=MobiLogLeak%3a%20A%20Preliminary%20Study%20on%20Data%20Leakage%20Caused%20by%20Poor%20Logging%20Practices&amp;body=https%3a%2f%2fr-zh.github.io%2fpublication%2flog%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -448,6 +476,9 @@
   <div class="article-container">
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Logging is an essential software practice that is used by developers to debug, diagnose and audit software systems. Despite the advantages of logging, poor logging practices can potentially leak sensitive data. The problem of data leakage is more severe in applications that run on mobile devices, since these devices carry sensitive identification information ranging from physical device identifiers (e.g., IMEI MAC address) to communications network identifiers (e.g., SIM, IP, Bluetooth ID), and application-specific identifiers related to the location and the users’ accounts. This preliminary study explores the impact of logging practices on data leakage of such sensitive information. Particularly, we want to investigate whether log-related statements inserted into an application code could lead to data leakage. While studying logging practices in mobile applications is an active research area, to our knowledge, this is the first study that explores the interplay between logging and security in the context of mobile applications for Android. We propose an approach called MobiLogLeak, an approach that identifies log statements in deployed apps that leak sensitive data. MobiLogLeak relies on taint flow analysis. Among 5,000 Android apps that we studied, we found that 200 apps leak sensitive data through logging.</p>
+    
 
     
     <div class="row">
@@ -457,8 +488,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-            <a href="/publication/#0">
-              Uncategorized
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -470,6 +501,18 @@
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
     <div class="row">
       <div class="col-md-1"></div>
@@ -477,7 +520,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            December, 2018
+            January, 2020
           </div>
         </div>
       </div>
@@ -509,7 +552,7 @@
   
   <div class="media-body">
     <h5 class="card-title" itemprop="name"><a href="/">Rui Zhou</a></h5>
-    <h6 class="card-subtitle">Master of Electrical &amp; Computer Engineering</h6>
+    <h6 class="card-subtitle">Master of Computer Engineering</h6>
     
     <ul class="network-icon" aria-hidden="true">
       
