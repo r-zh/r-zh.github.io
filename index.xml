@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -316,7 +316,7 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     <item>
       <title>Chrome Setting</title>
       <link>https://r-zh.github.io/config/chrome_setting/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://r-zh.github.io/config/chrome_setting/</guid>
       <description>
@@ -825,6 +825,8 @@ git add .
 git commit -m &#39;update blog&#39;
 git push
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Don&amp;rsquo;t forget the &lt;code&gt;./&lt;/code&gt; in the second command. Otherwise, the public will have one folder rather than all code library&lt;/p&gt;
 </description>
     </item>
     

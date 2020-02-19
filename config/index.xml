@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://r-zh.github.io/config/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Chrome Setting</title>
       <link>https://r-zh.github.io/config/chrome_setting/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://r-zh.github.io/config/chrome_setting/</guid>
       <description>Plugins After Install Chrome as the Browser, there are some step for plugins.
@@ -27,7 +27,7 @@ Program  Web Server 000webhost provides 1 GB free space for server. Just put ind
     <item>
       <title>Atom Environment Setting</title>
       <link>https://r-zh.github.io/config/atom_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://r-zh.github.io/config/atom_setting/</guid>
       <description>After Install Atom as the Editor, there are some tips.
@@ -39,7 +39,7 @@ Hot Key The list is shown in File -&amp;gt; Settings -&amp;gt; Keybindings. Some
     <item>
       <title>Drivers</title>
       <link>https://r-zh.github.io/config/draver_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://r-zh.github.io/config/draver_setting/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
@@ -50,7 +50,7 @@ Tip 2 &amp;hellip;</description>
     <item>
       <title>Features </title>
       <link>https://r-zh.github.io/config/language_setting/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://r-zh.github.io/config/language_setting/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
