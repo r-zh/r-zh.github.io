@@ -14,11 +14,11 @@
     
     <item>
       <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
-      <link>https://r-zh.github.io/publication/log/</link>
+      <link>https://r-zh.github.io/publication/mobilogleak/</link>
       <pubDate>Sat, 18 Jan 2020 19:25:24 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/publication/log/</guid>
-      <description></description>
+      <guid>https://r-zh.github.io/publication/mobilogleak/</guid>
+      <description>This work was done with my supervisor Wahab Hamou-Lhadj in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai.</description>
     </item>
     
   </channel>
