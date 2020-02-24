@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Leakage on Rui Zhou</title>
+    <link>https://r-zh.github.io/tags/data-leakage/</link>
+    <description>Recent content in Data Leakage on Rui Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 18 Jan 2020 19:25:24 -0500</lastBuildDate>
+    
+	<atom:link href="https://r-zh.github.io/tags/data-leakage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
+      <link>https://r-zh.github.io/publication/mobilogleak/</link>
+      <pubDate>Sat, 18 Jan 2020 19:25:24 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/publication/mobilogleak/</guid>
+      <description>This work was done with my supervisor Wahab Hamou-Lhadj in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai.</description>
+    </item>
+    
+  </channel>
+</rss>
