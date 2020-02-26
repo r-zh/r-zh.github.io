@@ -4,16 +4,16 @@
     
     <url>
     
-      <loc>https://r-zh.github.io/post/master_type/</loc>
-      <lastmod>2020-01-19T09:49:28-06:00</lastmod>
+      <loc>https://r-zh.github.io/publication/mobilogleak/</loc>
+      <lastmod>2020-02-22T19:25:24-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://r-zh.github.io/publication/mobilogleak/</loc>
-      <lastmod>2020-01-18T19:25:24-05:00</lastmod>
+      <loc>https://r-zh.github.io/post/master_type/</loc>
+      <lastmod>2020-01-19T09:49:28-06:00</lastmod>
     </url>
     
   
@@ -181,7 +181,7 @@
     <url>
     
       <loc>https://r-zh.github.io/publication_types/1/</loc>
-      <lastmod>2020-01-18T19:25:24-05:00</lastmod>
+      <lastmod>2020-02-22T19:25:24-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,7 +190,7 @@
     <url>
     
       <loc>https://r-zh.github.io/tags/android/</loc>
-      <lastmod>2020-01-18T19:25:24-05:00</lastmod>
+      <lastmod>2020-02-22T19:25:24-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -207,7 +207,7 @@
     <url>
     
       <loc>https://r-zh.github.io/tags/data-leakage/</loc>
-      <lastmod>2020-01-18T19:25:24-05:00</lastmod>
+      <lastmod>2020-02-22T19:25:24-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -297,7 +297,7 @@
     <url>
     
       <loc>https://r-zh.github.io/publication_types/</loc>
-      <lastmod>2020-01-18T19:25:24-05:00</lastmod>
+      <lastmod>2020-02-22T19:25:24-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -333,7 +333,7 @@
     <url>
     
       <loc>https://r-zh.github.io/tags/</loc>
-      <lastmod>2020-01-18T19:25:24-05:00</lastmod>
+      <lastmod>2020-02-22T19:25:24-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -360,6 +360,15 @@
     <url>
     
       <loc>https://r-zh.github.io/tags/web-service/</loc>
+      <lastmod>2018-12-16T19:22:54-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://r-zh.github.io/tags/website/</loc>
       <lastmod>2018-12-16T19:22:54-05:00</lastmod>
       <priority>0</priority>
     </url>

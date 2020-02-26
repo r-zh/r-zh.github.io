@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
+      <link>https://r-zh.github.io/publication/mobilogleak/</link>
+      <pubDate>Sat, 22 Feb 2020 19:25:24 -0500</pubDate>
+      
+      <guid>https://r-zh.github.io/publication/mobilogleak/</guid>
+      <description>&lt;p&gt;This work was done with my supervisor &lt;a href=&#34;https://users.encs.concordia.ca/~abdelw/&#34; target=&#34;_blank&#34;&gt;Wahab Hamou-Lhadj&lt;/a&gt; in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai. Presented by Rui Zhou on Feb. 21, 2020, in London, ON, Canada.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>M.A.Sc VS M.Eng</title>
       <link>https://r-zh.github.io/post/master_type/</link>
       <pubDate>Sun, 19 Jan 2020 09:49:28 -0600</pubDate>
@@ -43,16 +53,6 @@
   &lt;iframe src=&#34;//www.youtube.com/embed/CUcffJMuoEo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
-      <link>https://r-zh.github.io/publication/mobilogleak/</link>
-      <pubDate>Sat, 18 Jan 2020 19:25:24 -0500</pubDate>
-      
-      <guid>https://r-zh.github.io/publication/mobilogleak/</guid>
-      <description>&lt;p&gt;This work was done with my supervisor &lt;a href=&#34;https://users.encs.concordia.ca/~abdelw/&#34; target=&#34;_blank&#34;&gt;Wahab Hamou-Lhadj&lt;/a&gt; in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai.&lt;/p&gt;
 </description>
     </item>
     
@@ -539,9 +539,19 @@ git clone https://github.com/r-zh/r-zh.github.io.git
       
       <guid>https://r-zh.github.io/project/mobile_game/</guid>
       <description>&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;C++ 2D Game Engine, Advanture Game&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;C++ 2D Game Engine, Advanture Game
 
-&lt;li&gt;&lt;p&gt;Pygame, Advanture Game&lt;/p&gt;&lt;/li&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/hAxGRgaDawg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pygame, Advanture Game
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Cqik5f3ZoQI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -552,11 +562,39 @@ git clone https://github.com/r-zh/r-zh.github.io.git
       <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
       
       <guid>https://r-zh.github.io/project/web_github_analystics/</guid>
-      <description>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Project&lt;/th&gt;
+&lt;th&gt;Technology&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Course&lt;/td&gt;
+&lt;td&gt;Programming on the Cloud&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Design&lt;/td&gt;
+&lt;td&gt;HTML 5, Bootstrap, Ajax&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Deep Learning Model&lt;/td&gt;
+&lt;td&gt;LSTM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/mqpxhWz8PGI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Ug0Yhak1uQs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+
+&lt;p&gt;The online website which analyzes the users&amp;rsquo; information and predicts the programming languages trend.&lt;/p&gt;
 </description>
     </item>
     

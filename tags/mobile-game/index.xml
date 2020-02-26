@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile Game on Rui Zhou</title>
+    <title>Mobile-Game on Rui Zhou</title>
     <link>https://r-zh.github.io/tags/mobile-game/</link>
-    <description>Recent content in Mobile Game on Rui Zhou</description>
+    <description>Recent content in Mobile-Game on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,9 +18,7 @@
       <pubDate>Sun, 16 Dec 2018 19:23:28 -0500</pubDate>
       
       <guid>https://r-zh.github.io/project/mobile_game/</guid>
-      <description> C++ 2D Game Engine, Advanture Game
- Pygame, Advanture Game
-  </description>
+      <description> C++ 2D Game Engine, Advanture Game    Pygame, Advanture Game     </description>
     </item>
     
   </channel>
