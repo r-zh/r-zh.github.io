@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Service on Rui Zhou</title>
-    <link>https://r-zh.github.io/tags/web-service/</link>
+    <link>https://ruizhou.gitlab.io/tags/web-service/</link>
     <description>Recent content in Web Service on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 16 Dec 2018 19:22:54 -0500</lastBuildDate>
     
-	<atom:link href="https://r-zh.github.io/tags/web-service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/tags/web-service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Github User Behaviour Analystics</title>
-      <link>https://r-zh.github.io/project/web_github_analystics/</link>
+      <link>https://ruizhou.gitlab.io/project/web_github_analystics/</link>
       <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/project/web_github_analystics/</guid>
+      <guid>https://ruizhou.gitlab.io/project/web_github_analystics/</guid>
       <description>Project Technology     Course Programming on the Cloud   Design HTML 5, Bootstrap, Ajax   Deep Learning Model LSTM      The online website which analyzes the users&amp;rsquo; information and predicts the programming languages trend.</description>
     </item>
     

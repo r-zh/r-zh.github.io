@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tool on Rui Zhou</title>
-    <link>https://r-zh.github.io/categories/tool/</link>
+    <link>https://ruizhou.gitlab.io/categories/tool/</link>
     <description>Recent content in tool on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 16 Dec 2018 19:20:56 -0500</lastBuildDate>
     
-	<atom:link href="https://r-zh.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git Commands in Usage</title>
-      <link>https://r-zh.github.io/post/git/</link>
+      <link>https://ruizhou.gitlab.io/post/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/git/</guid>
+      <guid>https://ruizhou.gitlab.io/post/git/</guid>
       <description>Overview Update website Using Hugo to set personal website has some issues about Git to attention. Source code and website code are independent.
    Category Source code Website Code     Creation Manually Automatically   File type .md .html   Usage Edit the Content Display the Information   Folder hugo root public    Therefore, we need to develop the source code firstly, and push it to git.</description>
     </item>
     
     <item>
       <title>Photoshop Tips</title>
-      <link>https://r-zh.github.io/post/photoshop/</link>
+      <link>https://ruizhou.gitlab.io/post/photoshop/</link>
       <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/photoshop/</guid>
+      <guid>https://ruizhou.gitlab.io/post/photoshop/</guid>
       <description> Create the dynamic picture  导入图片 File -&amp;gt; 设置图片大小（宽500px） 打开时间轴控件 逆向并设置时间 设置过度（每张1秒，间隔20张） 存储为网页可识别  </description>
     </item>
     

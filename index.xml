@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rui Zhou on Rui Zhou</title>
-    <link>https://r-zh.github.io/</link>
+    <link>https://ruizhou.gitlab.io/</link>
     <description>Recent content in Rui Zhou on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
-      <link>https://r-zh.github.io/publication/mobilogleak/</link>
+      <link>https://ruizhou.gitlab.io/publication/mobilogleak/</link>
       <pubDate>Sat, 22 Feb 2020 19:25:24 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/publication/mobilogleak/</guid>
+      <guid>https://ruizhou.gitlab.io/publication/mobilogleak/</guid>
       <description>&lt;p&gt;This work was done with my supervisor &lt;a href=&#34;https://users.encs.concordia.ca/~abdelw/&#34; target=&#34;_blank&#34;&gt;Wahab Hamou-Lhadj&lt;/a&gt; in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai. Presented by Rui Zhou on Feb. 21, 2020, in London, ON, Canada.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>M.A.Sc VS M.Eng</title>
-      <link>https://r-zh.github.io/post/master_type/</link>
+      <link>https://ruizhou.gitlab.io/post/master_type/</link>
       <pubDate>Sun, 19 Jan 2020 09:49:28 -0600</pubDate>
       
-      <guid>https://r-zh.github.io/post/master_type/</guid>
+      <guid>https://ruizhou.gitlab.io/post/master_type/</guid>
       <description>
 
 &lt;p&gt;I would like to share my experience about my view of M.A.Sc and M.Eng in English, Chinese and French. The following are the videos on the Youtube.&lt;/p&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>How to Write the Master Thesis?</title>
-      <link>https://r-zh.github.io/post/thesis/</link>
+      <link>https://ruizhou.gitlab.io/post/thesis/</link>
       <pubDate>Thu, 09 Jan 2020 11:50:51 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/thesis/</guid>
+      <guid>https://ruizhou.gitlab.io/post/thesis/</guid>
       <description>
 
 &lt;p&gt;I shared my experience about how to write my master thesis in English, Chinese and French. Here is the &lt;a href=&#34;https://www.youtube.com/playlist?list=PL66KAFVYfnJRnKlqF3VBy-SmSk8cGrKk3&#34; target=&#34;_blank&#34;&gt;Playlist&lt;/a&gt; of videos on the Youtube.&lt;/p&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Welcom back to the Page &gt;_&lt;</title>
-      <link>https://r-zh.github.io/post/memorandum/</link>
+      <link>https://ruizhou.gitlab.io/post/memorandum/</link>
       <pubDate>Sat, 04 Jan 2020 10:06:30 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/memorandum/</guid>
+      <guid>https://ruizhou.gitlab.io/post/memorandum/</guid>
       <description>
 
 &lt;h2 id=&#34;when-suddenly-remember-i-have-the-blog&#34;&gt;When suddenly remember I have the blog:&lt;/h2&gt;
@@ -109,10 +109,18 @@
 &lt;li&gt;Run &lt;code&gt;git pull&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;After changing, build &lt;code&gt;public&lt;/code&gt; folder Run &lt;br&gt;
 &lt;code&gt;
-git clone https://github.com/r-zh/r-zh.github.io.git
+git clone git@github.com:r-zh/r-zh.github.io.git
 &lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;After changing, &lt;a href=&#34;https://r-zh.github.io/post/git/&#34; target=&#34;_blank&#34;&gt;Upload the new commit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;After changing, &lt;a href=&#34;https://ruizhou.gitlab.io/post/git/&#34; target=&#34;_blank&#34;&gt;Upload the new commit&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&#34;2021-s-plan&#34;&gt;2021&amp;rsquo;s Plan&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Find a Job&lt;/li&gt;
+&lt;li&gt;Develop Personal Youtube&lt;/li&gt;
+&lt;li&gt;Get Familiar with Angular&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;2020-s-plan&#34;&gt;2020&amp;rsquo;s Plan&lt;/h2&gt;
 
@@ -146,10 +154,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>Preparing For Exams</title>
-      <link>https://r-zh.github.io/post/preparing_exam/</link>
+      <link>https://ruizhou.gitlab.io/post/preparing_exam/</link>
       <pubDate>Thu, 03 Oct 2019 14:22:00 -0400</pubDate>
       
-      <guid>https://r-zh.github.io/post/preparing_exam/</guid>
+      <guid>https://ruizhou.gitlab.io/post/preparing_exam/</guid>
       <description>
 
 &lt;h2 id=&#34;during-the-study&#34;&gt;During the Study&lt;/h2&gt;
@@ -229,10 +237,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>Exercise in Different Culture</title>
-      <link>https://r-zh.github.io/post/exercise/</link>
+      <link>https://ruizhou.gitlab.io/post/exercise/</link>
       <pubDate>Mon, 14 Jan 2019 08:42:04 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/exercise/</guid>
+      <guid>https://ruizhou.gitlab.io/post/exercise/</guid>
       <description>
 
 &lt;h3 id=&#34;savate&#34;&gt;Savate&lt;/h3&gt;
@@ -275,10 +283,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>Consideration before Rental</title>
-      <link>https://r-zh.github.io/post/rental/</link>
+      <link>https://ruizhou.gitlab.io/post/rental/</link>
       <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/rental/</guid>
+      <guid>https://ruizhou.gitlab.io/post/rental/</guid>
       <description>
 
 &lt;h3 id=&#34;bad-experience&#34;&gt;Bad experience&lt;/h3&gt;
@@ -316,10 +324,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>Chrome Setting</title>
-      <link>https://r-zh.github.io/config/chrome_setting/</link>
+      <link>https://ruizhou.gitlab.io/config/chrome_setting/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/config/chrome_setting/</guid>
+      <guid>https://ruizhou.gitlab.io/config/chrome_setting/</guid>
       <description>
 
 &lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
@@ -363,10 +371,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>DIY Dishes</title>
-      <link>https://r-zh.github.io/post/food/</link>
+      <link>https://ruizhou.gitlab.io/post/food/</link>
       <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/food/</guid>
+      <guid>https://ruizhou.gitlab.io/post/food/</guid>
       <description>
 
 &lt;h2 id=&#34;邻居家小孩都馋哭了系列&#34;&gt;邻居家小孩都馋哭了系列&lt;/h2&gt;
@@ -534,10 +542,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>Mobile Game Application</title>
-      <link>https://r-zh.github.io/project/mobile_game/</link>
+      <link>https://ruizhou.gitlab.io/project/mobile_game/</link>
       <pubDate>Sun, 16 Dec 2018 19:23:28 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/project/mobile_game/</guid>
+      <guid>https://ruizhou.gitlab.io/project/mobile_game/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;C++ 2D Game Engine, Advanture Game
 
@@ -558,10 +566,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>Github User Behaviour Analystics</title>
-      <link>https://r-zh.github.io/project/web_github_analystics/</link>
+      <link>https://ruizhou.gitlab.io/project/web_github_analystics/</link>
       <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/project/web_github_analystics/</guid>
+      <guid>https://ruizhou.gitlab.io/project/web_github_analystics/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -600,10 +608,10 @@ git clone https://github.com/r-zh/r-zh.github.io.git
     
     <item>
       <title>French Learning Tips</title>
-      <link>https://r-zh.github.io/post/french/</link>
+      <link>https://ruizhou.gitlab.io/post/french/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/french/</guid>
+      <guid>https://ruizhou.gitlab.io/post/french/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://a.photo/images/2019/01/09/french_structure.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -797,10 +805,10 @@ Language is used to let other undersand us&lt;/li&gt;
     
     <item>
       <title>Git Commands in Usage</title>
-      <link>https://r-zh.github.io/post/git/</link>
+      <link>https://ruizhou.gitlab.io/post/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/git/</guid>
+      <guid>https://ruizhou.gitlab.io/post/git/</guid>
       <description>
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -871,10 +879,10 @@ git push
     
     <item>
       <title>Mobile Development Summary</title>
-      <link>https://r-zh.github.io/post/mobile/</link>
+      <link>https://ruizhou.gitlab.io/post/mobile/</link>
       <pubDate>Sun, 16 Dec 2018 19:19:31 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/mobile/</guid>
+      <guid>https://ruizhou.gitlab.io/post/mobile/</guid>
       <description>&lt;p&gt;If you are urgent to create the App. Follow the link&lt;/p&gt;
 
 &lt;ol&gt;
@@ -888,10 +896,10 @@ git push
     
     <item>
       <title>Photoshop Tips</title>
-      <link>https://r-zh.github.io/post/photoshop/</link>
+      <link>https://ruizhou.gitlab.io/post/photoshop/</link>
       <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/photoshop/</guid>
+      <guid>https://ruizhou.gitlab.io/post/photoshop/</guid>
       <description>
 
 &lt;h2 id=&#34;create-the-dynamic-picture&#34;&gt;Create the dynamic picture&lt;/h2&gt;

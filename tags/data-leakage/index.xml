@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-Leakage on Rui Zhou</title>
-    <link>https://r-zh.github.io/tags/data-leakage/</link>
+    <link>https://ruizhou.gitlab.io/tags/data-leakage/</link>
     <description>Recent content in Data-Leakage on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sat, 22 Feb 2020 19:25:24 -0500</lastBuildDate>
     
-	<atom:link href="https://r-zh.github.io/tags/data-leakage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/tags/data-leakage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices</title>
-      <link>https://r-zh.github.io/publication/mobilogleak/</link>
+      <link>https://ruizhou.gitlab.io/publication/mobilogleak/</link>
       <pubDate>Sat, 22 Feb 2020 19:25:24 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/publication/mobilogleak/</guid>
+      <guid>https://ruizhou.gitlab.io/publication/mobilogleak/</guid>
       <description>This work was done with my supervisor Wahab Hamou-Lhadj in collaboration with Dr. Mohammad Hamdaqa and Dr. Haipeng Cai. Presented by Rui Zhou on Feb. 21, 2020, in London, ON, Canada.</description>
     </item>
     

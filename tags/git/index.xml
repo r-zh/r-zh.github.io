@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on Rui Zhou</title>
-    <link>https://r-zh.github.io/tags/git/</link>
+    <link>https://ruizhou.gitlab.io/tags/git/</link>
     <description>Recent content in git on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 16 Dec 2018 19:20:56 -0500</lastBuildDate>
     
-	<atom:link href="https://r-zh.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git Commands in Usage</title>
-      <link>https://r-zh.github.io/post/git/</link>
+      <link>https://ruizhou.gitlab.io/post/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/git/</guid>
+      <guid>https://ruizhou.gitlab.io/post/git/</guid>
       <description>Overview Update website Using Hugo to set personal website has some issues about Git to attention. Source code and website code are independent.
    Category Source code Website Code     Creation Manually Automatically   File type .md .html   Usage Edit the Content Display the Information   Folder hugo root public    Therefore, we need to develop the source code firstly, and push it to git.</description>
     </item>

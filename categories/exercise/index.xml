@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exercise on Rui Zhou</title>
-    <link>https://r-zh.github.io/categories/exercise/</link>
+    <link>https://ruizhou.gitlab.io/categories/exercise/</link>
     <description>Recent content in Exercise on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Mon, 14 Jan 2019 08:42:04 -0500</lastBuildDate>
     
-	<atom:link href="https://r-zh.github.io/categories/exercise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/categories/exercise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exercise in Different Culture</title>
-      <link>https://r-zh.github.io/post/exercise/</link>
+      <link>https://ruizhou.gitlab.io/post/exercise/</link>
       <pubDate>Mon, 14 Jan 2019 08:42:04 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/post/exercise/</guid>
+      <guid>https://ruizhou.gitlab.io/post/exercise/</guid>
       <description> Savate   八段锦 
   形意拳   Iaido   </description>
     </item>

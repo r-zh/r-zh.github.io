@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rui Zhou</title>
-    <link>https://r-zh.github.io/categories/</link>
+    <link>https://ruizhou.gitlab.io/categories/</link>
     <description>Recent content in Categories on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     
-	<atom:link href="https://r-zh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exercise</title>
-      <link>https://r-zh.github.io/categories/exercise/</link>
+      <link>https://ruizhou.gitlab.io/categories/exercise/</link>
       <pubDate>Mon, 14 Jan 2019 08:42:04 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/categories/exercise/</guid>
+      <guid>https://ruizhou.gitlab.io/categories/exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://r-zh.github.io/categories/life/</link>
+      <link>https://ruizhou.gitlab.io/categories/life/</link>
       <pubDate>Sat, 04 Jan 2020 10:06:30 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/categories/life/</guid>
+      <guid>https://ruizhou.gitlab.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study</title>
-      <link>https://r-zh.github.io/categories/study/</link>
+      <link>https://ruizhou.gitlab.io/categories/study/</link>
       <pubDate>Sun, 19 Jan 2020 09:49:28 -0600</pubDate>
       
-      <guid>https://r-zh.github.io/categories/study/</guid>
+      <guid>https://ruizhou.gitlab.io/categories/study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thesis</title>
-      <link>https://r-zh.github.io/categories/thesis/</link>
+      <link>https://ruizhou.gitlab.io/categories/thesis/</link>
       <pubDate>Sun, 19 Jan 2020 09:49:28 -0600</pubDate>
       
-      <guid>https://r-zh.github.io/categories/thesis/</guid>
+      <guid>https://ruizhou.gitlab.io/categories/thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language</title>
-      <link>https://r-zh.github.io/categories/language/</link>
+      <link>https://ruizhou.gitlab.io/categories/language/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/categories/language/</guid>
+      <guid>https://ruizhou.gitlab.io/categories/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tool</title>
-      <link>https://r-zh.github.io/categories/tool/</link>
+      <link>https://ruizhou.gitlab.io/categories/tool/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/categories/tool/</guid>
+      <guid>https://ruizhou.gitlab.io/categories/tool/</guid>
       <description></description>
     </item>
     

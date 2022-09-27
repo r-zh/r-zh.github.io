@@ -2,148 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rui Zhou</title>
-    <link>https://r-zh.github.io/tags/</link>
+    <link>https://ruizhou.gitlab.io/tags/</link>
     <description>Recent content in Tags on Rui Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sat, 22 Feb 2020 19:25:24 -0500</lastBuildDate>
     
-	<atom:link href="https://r-zh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruizhou.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>https://r-zh.github.io/tags/android/</link>
+      <link>https://ruizhou.gitlab.io/tags/android/</link>
       <pubDate>Sat, 22 Feb 2020 19:25:24 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/android/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Leakage</title>
-      <link>https://r-zh.github.io/tags/data-leakage/</link>
+      <link>https://ruizhou.gitlab.io/tags/data-leakage/</link>
       <pubDate>Sat, 22 Feb 2020 19:25:24 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/data-leakage/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/data-leakage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dish</title>
-      <link>https://r-zh.github.io/tags/dish/</link>
+      <link>https://ruizhou.gitlab.io/tags/dish/</link>
       <pubDate>Sun, 16 Dec 2018 19:23:49 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/dish/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/dish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exam</title>
-      <link>https://r-zh.github.io/tags/exam/</link>
+      <link>https://ruizhou.gitlab.io/tags/exam/</link>
       <pubDate>Thu, 03 Oct 2019 14:22:00 -0400</pubDate>
       
-      <guid>https://r-zh.github.io/tags/exam/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/exam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Master</title>
-      <link>https://r-zh.github.io/tags/master/</link>
+      <link>https://ruizhou.gitlab.io/tags/master/</link>
       <pubDate>Thu, 09 Jan 2020 11:50:51 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/master/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/master/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Master Type</title>
-      <link>https://r-zh.github.io/tags/master-type/</link>
+      <link>https://ruizhou.gitlab.io/tags/master-type/</link>
       <pubDate>Sun, 19 Jan 2020 09:49:28 -0600</pubDate>
       
-      <guid>https://r-zh.github.io/tags/master-type/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/master-type/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memorandum</title>
-      <link>https://r-zh.github.io/tags/memorandum/</link>
+      <link>https://ruizhou.gitlab.io/tags/memorandum/</link>
       <pubDate>Sat, 04 Jan 2020 10:06:30 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/memorandum/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/memorandum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile-Game</title>
-      <link>https://r-zh.github.io/tags/mobile-game/</link>
+      <link>https://ruizhou.gitlab.io/tags/mobile-game/</link>
       <pubDate>Sun, 16 Dec 2018 19:23:28 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/mobile-game/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/mobile-game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rental</title>
-      <link>https://r-zh.github.io/tags/rental/</link>
+      <link>https://ruizhou.gitlab.io/tags/rental/</link>
       <pubDate>Thu, 10 Jan 2019 09:44:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/rental/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/rental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://r-zh.github.io/tags/tips/</link>
+      <link>https://ruizhou.gitlab.io/tags/tips/</link>
       <pubDate>Thu, 03 Oct 2019 14:22:00 -0400</pubDate>
       
-      <guid>https://r-zh.github.io/tags/tips/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Service</title>
-      <link>https://r-zh.github.io/tags/web-service/</link>
+      <link>https://ruizhou.gitlab.io/tags/web-service/</link>
       <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/web-service/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/web-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>https://r-zh.github.io/tags/website/</link>
+      <link>https://ruizhou.gitlab.io/tags/website/</link>
       <pubDate>Sun, 16 Dec 2018 19:22:54 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/website/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>french</title>
-      <link>https://r-zh.github.io/tags/french/</link>
+      <link>https://ruizhou.gitlab.io/tags/french/</link>
       <pubDate>Sun, 16 Dec 2018 19:21:55 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/french/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/french/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://r-zh.github.io/tags/git/</link>
+      <link>https://ruizhou.gitlab.io/tags/git/</link>
       <pubDate>Sun, 16 Dec 2018 19:20:56 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/git/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photoshop</title>
-      <link>https://r-zh.github.io/tags/photoshop/</link>
+      <link>https://ruizhou.gitlab.io/tags/photoshop/</link>
       <pubDate>Sun, 16 Dec 2018 16:46:03 -0500</pubDate>
       
-      <guid>https://r-zh.github.io/tags/photoshop/</guid>
+      <guid>https://ruizhou.gitlab.io/tags/photoshop/</guid>
       <description></description>
     </item>
     
